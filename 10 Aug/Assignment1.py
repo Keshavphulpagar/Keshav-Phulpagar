@@ -40,4 +40,3 @@ distance=lengthoftrain+lengthoftunnel
 #conversion of km per hour into min per seconds
 speed=45*5/18
 time=distance/speed
-print("Time taken by train to cross the tunnel=",time,"secs")
