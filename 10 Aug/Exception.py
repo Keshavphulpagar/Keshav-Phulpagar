@@ -37,7 +37,7 @@ try:
 except:
     print("This is syntax error")
 
-#UnboundLocalError
+#UnboundLocalError 
 x = 10
 try:
     def bar():
